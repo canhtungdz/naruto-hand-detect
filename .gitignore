@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# Dataset (downloadable from Roboflow Universe)
+naruto hand sign.v3i.yolov8/
+
+# OS specific files
+.DS_Store
+Thumbs.db

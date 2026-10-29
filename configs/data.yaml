@@ -1,0 +1,10 @@
+# YOLOv8 Dataset Configuration
+# Sử dụng đường dẫn tuyệt đối local để đảm bảo chạy mượt mà trên máy của bạn
+path: /Users/nguyencanhtung/Program/naruto-hand-detect/naruto hand sign.v3i.yolov8
+train: train/images
+val: valid/images
+test: test/images
+
+# Số lượng class nhận diện
+nc: 12
+names: ['bird', 'boar', 'dog', 'dragon', 'hare', 'horse', 'monkey', 'ox', 'ram', 'rat', 'snake', 'tiger']

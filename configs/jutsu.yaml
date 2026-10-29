@@ -1,0 +1,23 @@
+# Danh sách cấu hình các Nhẫn thuật (Jutsu) và chuỗi thủ ấn tương ứng
+# Tên các thủ ấn phải khớp hoàn toàn với danh sách class trong data.yaml:
+# ['bird', 'boar', 'dog', 'dragon', 'hare', 'horse', 'monkey', 'ox', 'ram', 'rat', 'snake', 'tiger']
+
+Chidori:
+  name_vi: "Thiên Điểu (Chidori)"
+  sequence: ['ox', 'hare', 'monkey']
+  element: "Lôi Độn ⚡"
+
+Hao_Hako_no_Jutsu:
+  name_vi: "Hào Hỏa Cầu Chi Thuật (Fireball)"
+  sequence: ['snake', 'ram', 'monkey', 'boar', 'horse', 'tiger']
+  element: "Hỏa Độn 🔥"
+
+Water_Dragon_Jutsu:
+  name_vi: "Thủy Long Đạn Chi Thuật (Water Dragon)"
+  sequence: ['ox', 'monkey', 'hare']
+  element: "Thủy Độn 🌊"
+
+Shadow_Clone_Jutsu:
+  name_vi: "Ảnh Phân Thân Chi Thuật (Shadow Clone)"
+  sequence: ['ram']
+  element: "Thần Thuật 👥"
